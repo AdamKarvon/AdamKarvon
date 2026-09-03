@@ -1,7 +1,7 @@
 # Adam Karvon
-<samp>Physicist</samp>
+<samp>Physicist | Producer</samp>
 
-> Welcome to my portfolio! I specialize in machine learning, statistical modeling, and data science, with a strong background in extracting insights from complex, high-dimensional datasets. I am passionate about applying advanced computational techniques to solve challenging, real-world problems.
+> Welcome to my portfolio! I specialise in event production, statistical modeling, and data science, with a strong background in extracting insights from complex, high-dimensional datasets. I am passionate about applying advanced computational techniques to solve challenging, real-world problems.
 
 <!-- Self-generating ASCII portrait from GitHub Actions -->
 <picture>
@@ -51,7 +51,10 @@ A custom implementation of feedforward propagation and weight initialization str
 - **Technologies:** <samp>Python</samp>, Deep Learning Fundamentals
 
 ---
-
+## Get In Touch
+*   **Email:** adamkarvon.github@gmail.com 
+*   I am currently open to new opportunities. Let's connect!
+  
 ## GitHub Stats
 <!-- Generated locally by GitHub Actions - no third party widgets! -->
 <picture>
@@ -66,6 +69,4 @@ A custom implementation of feedforward propagation and weight initialization str
   <img src="langs.svg" alt="Top languages">
 </picture>
 
-## Get In Touch
-*   **Email:** adam.karvon@example.com (Update with real email)
-*   I am currently open to new opportunities in Data Science and Machine Learning. Let's connect!
+
