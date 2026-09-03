@@ -8,7 +8,7 @@
   <img src="./ascii.svg" alt="ASCII Portrait" width="460">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/adamkarvon) | [My Resume](./Adam_Karvon_CV.pdf) | [Portfolio Site](#)
+[LinkedIn](https://www.linkedin.com/in/adamkarvon) 
 
 ---
 ## Featured Projects
