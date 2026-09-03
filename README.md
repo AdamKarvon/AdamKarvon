@@ -12,16 +12,16 @@
 
 ---
 ## Featured Projects
-### National First Nations Housing & Homelessness Forum:
+### National First Nations Housing & Homelessness Forum (2025)
 Developed a highly commercial agenda that generated revenue in sponsorship and delegate ticket sales. Secured high-profile speakers including government ministers and C-suite housing executives.
-### Australian Dementia Summit 2025 
+### Australian Dementia Summit (2025)
 Secured international keynote speakers and partnered with major industry associations (National Association of Practising Psychiatrists)
-### AI & Technology in Aged Care Forum: 
+### AI & Technology in Aged Care Forum (2026)
 Developed a highly technical agenda and secured a speaker faculty of C-suite tech leaders (CIOs/CTOs), regulatory officials (ACCC), and major tech vendors (Microsoft).
-### Australian Build-to-Rent Success Summit: 
+### Australian Build-to-Rent Success Summit (2026)
 Produced a lucrative property sector summit, securing leading industry figures Managed on-site event execution of  high-profile, 200+ attendee industry conferences across Healthcare, Property, Technology, and Social Policy.
 
-### Graduate Research- Honours Thesis 
+### Graduate Research - Honours Thesis 
 A computational neuroscience project focused on analyzing functional magnetic resonance imaging (fMRI) data to detect and quantify cortical vorticity. 
 - **What it solves:** Extracts functional brain connectivity maps and processes dense 3D/4D spatial data to identify complex flow-like dynamic structures (vortices) in the brain.
 - **Approach:** Wrote custom MATLAB scripts to read and manipulate <samp>.dtseries.nii</samp> (CIFTI) and GIFTI surface files, applying vector calculus algorithms directly to structural brain meshes.
