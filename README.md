@@ -12,13 +12,13 @@
 
 ---
 ## Featured Projects
-###National First Nations Housing & Homelessness Forum:
+### National First Nations Housing & Homelessness Forum:
 Developed a highly commercial agenda that generated revenue in sponsorship and delegate ticket sales. Secured high-profile speakers including government ministers and C-suite housing executives.
-###Australian Dementia Summit 2025 
+### Australian Dementia Summit 2025 
 Secured international keynote speakers and partnered with major industry associations (National Association of Practising Psychiatrists)
-###AI & Technology in Aged Care Forum: 
+### AI & Technology in Aged Care Forum: 
 Developed a highly technical agenda and secured a speaker faculty of C-suite tech leaders (CIOs/CTOs), regulatory officials (ACCC), and major tech vendors (Microsoft).
-###Australian Build-to-Rent Success Summit: 
+### Australian Build-to-Rent Success Summit: 
 Produced a lucrative property sector summit, securing leading industry figures Managed on-site event execution of  high-profile, 200+ attendee industry conferences across Healthcare, Property, Technology, and Social Policy.
 
 ### Graduate Research- Honours Thesis 
