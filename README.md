@@ -1,5 +1,5 @@
 # Adam Karvon
-<samp>Physicist | Producer</samp>
+<samp>Producer</samp>
 
 > Welcome to my portfolio! I specialise in event production, statistical modeling, and data science, with a strong background in extracting insights from complex, high-dimensional datasets. I am passionate about applying advanced computational techniques to solve challenging, real-world problems.
 
