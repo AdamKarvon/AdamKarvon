@@ -13,15 +13,16 @@
 ---
 ## Featured Projects
 ### National First Nations Housing & Homelessness Forum (2025)
-Developed a highly commercial agenda that generated revenue in sponsorship and delegate ticket sales. Secured high-profile speakers including government ministers and C-suite housing executives.
+(Agnenda)
 ### Australian Dementia Summit (2025)
-Secured international keynote speakers and partnered with major industry associations (National Association of Practising Psychiatrists)
+(Agnenda)
 ### AI & Technology in Aged Care Forum (2026)
-Developed a highly technical agenda and secured a speaker faculty of C-suite tech leaders (CIOs/CTOs), regulatory officials (ACCC), and major tech vendors (Microsoft).
+(Agnenda)
 ### Australian Build-to-Rent Success Summit (2026)
-Produced a lucrative property sector summit, securing leading industry figures Managed on-site event execution of  high-profile, 200+ attendee industry conferences across Healthcare, Property, Technology, and Social Policy.
+(Agnenda)
 
 ### Graduate Research - Honours Thesis 
+(Link)
 A computational neuroscience project focused on analyzing functional magnetic resonance imaging (fMRI) data to detect and quantify cortical vorticity. 
 - **What it solves:** Extracts functional brain connectivity maps and processes dense 3D/4D spatial data to identify complex flow-like dynamic structures (vortices) in the brain.
 - **Approach:** Wrote custom MATLAB scripts to read and manipulate <samp>.dtseries.nii</samp> (CIFTI) and GIFTI surface files, applying vector calculus algorithms directly to structural brain meshes.
@@ -29,12 +30,14 @@ A computational neuroscience project focused on analyzing functional magnetic re
 - **Technologies:** <samp>MATLAB</samp>, Medical Imaging (fMRI, CIFTI/GIFTI)
 
 ### Galaxy Morphology Predictor (CNN Regression)
+(Link)
 A deep learning model trained to predict continuous structural properties of galaxies using the Galaxy Zoo dataset.
 - **What it solves:** Automates the estimation of galactic morphologies which would otherwise require massive crowdsourced human effort.
 - **Approach:** Built and trained a Convolutional Neural Network (CNN) with dense regression layers using Keras and TensorFlow. Utilized L1/L2 regularization to prevent overfitting on the high-dimensional astronomical arrays.
 - **Technologies:** <samp>Python</samp>, <samp>TensorFlow</samp>, <samp>Keras</samp>, <samp>NumPy</samp>
 
 ### Advanced Statistical Modeling & Inference (Bayesian ML)
+(Link)
 A comprehensive suite of statistical modeling implementations showcasing rigorous data science methodologies.
 - **What it solves:** Demonstrates the ability to extract highly accurate parameter estimates and uncertainty quantifications from noisy data.
 - **Approach:** 
@@ -45,6 +48,7 @@ A comprehensive suite of statistical modeling implementations showcasing rigorou
 - **Technologies:** <samp>Python</samp>, <samp>SciPy</samp>, <samp>Scikit-Learn</samp>, Bayesian Inference
 
 ### MNIST Neural Network Weight Propagation
+(Link)
 A custom implementation of feedforward propagation and weight initialization strategies.
 - **What it solves:** Demonstrates a fundamental understanding of neural network architectures underneath the hood, beyond just calling high-level APIs.
 - **Approach:** Programmed dense layer weight propagations to classify handwritten digits (MNIST) efficiently.
