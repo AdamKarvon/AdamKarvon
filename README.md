@@ -13,13 +13,13 @@
 ---
 ## Featured Projects
 ### National First Nations Housing & Homelessness Forum (2025)
-(Agnenda)
+(Link)
 ### Australian Dementia Summit (2025)
-(Agnenda)
+(Link)
 ### AI & Technology in Aged Care Forum (2026)
-(Agnenda)
+(Link)
 ### Australian Build-to-Rent Success Summit (2026)
-(Agnenda)
+(Link)
 
 ### Graduate Research - Honours Thesis 
 (Link)
