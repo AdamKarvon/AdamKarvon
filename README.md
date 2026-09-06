@@ -54,16 +54,7 @@ A custom implementation of feedforward propagation and weight initialization str
 - **Approach:** Programmed dense layer weight propagations to classify handwritten digits (MNIST) efficiently.
 - **Technologies:** <samp>Python</samp>, Deep Learning Fundamentals
 
----
-## Get In Touch
-*   **Email:** adamkarvon.github@gmail.com 
-*   I am currently open to new opportunities. Let's connect!
----
-## Tech & Skills
-- **Languages:** <samp>Python</samp> (Pandas, NumPy, SciPy), <samp>MATLAB</samp>, <samp>R</samp>, <samp>SQL</samp>
-- **Machine Learning & AI:** <samp>TensorFlow</samp>, <samp>Keras</samp>, <samp>Scikit-Learn</samp>, Deep Learning (CNNs, NNs), Bayesian Inference (MCMC, Gaussian Processes), PCA
-- **Data Domains:** High-dimensional array processing, fMRI/Neuroimaging data (<samp>.cifti</samp>, <samp>.gifti</samp>), Astronomical data (Galaxy Zoo)
----
+
 
 ## GitHub Stats
 <!-- Generated locally by GitHub Actions - no third party widgets! -->
