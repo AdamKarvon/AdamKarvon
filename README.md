@@ -21,8 +21,15 @@
 ### Australian Build-to-Rent Success Summit (2026)
 (Link)
 
+### Event Agenda Data Normalization (Salus Events)
+A data cleaning and automation project developed to standardize inconsistently named corporate event agendas and brochures for Salus Events / Aventedge.
+- **What it solves:** Resolved data inconsistencies (e.g., appended version numbers, inconsistent capitalization) across a large set of event documents (such as the Aged Care & Dementia conferences), ensuring compatibility with downstream archival systems and web platforms.
+- **Approach:** Analyzed structural patterns and file metadata to create an automated normalization script, strictly enforcing kebab-case standard naming conventions.
+- **Technologies:** <samp>PowerShell</samp>, Data Cleaning, Automation
+
 ### Graduate Research - Honours Thesis 
 (Link)
+### Brain Vortices Analysis (fMRI)
 A computational neuroscience project focused on analyzing functional magnetic resonance imaging (fMRI) data to detect and quantify cortical vorticity. 
 - **What it solves:** Extracts functional brain connectivity maps and processes dense 3D/4D spatial data to identify complex flow-like dynamic structures (vortices) in the brain.
 - **Approach:** Wrote custom MATLAB scripts to read and manipulate <samp>.dtseries.nii</samp> (CIFTI) and GIFTI surface files, applying vector calculus algorithms directly to structural brain meshes.
