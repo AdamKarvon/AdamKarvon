@@ -23,7 +23,7 @@
 
 ### AI & Technology in Aged Care Forum (2026)
 - [Event Website Archive (Salus Events)](https://web.archive.org/web/20260823051408/https://agedcare.salusevents.org/act-agenda)
-- [Working Agenda](./events/AI-and-Technology-in-Aged-Care-Working-Agenda.pdf)
+- [Event Agenda](./events/AI-and-Technology-in-Aged-Care-Working-Agenda.pdf)
 - [Aged Care Dementia Conference Brochure](./events/Aged-Care-Dementia-Conference-Brochure.pdf)
 
 ### Australian Build-to-Rent Success Summit (2026)
