@@ -14,8 +14,7 @@
 ## Featured Projects
 ### National First Nations Housing & Homelessness Forum (2025)
 - [Event Brochure](./events/National-First-Nations-Housing-and-Homelessness-Forum-Brochure.pdf)
-- [Chairpack Day 1](./events/National-First-Nations-Housing-Forum-Chairpack-Day-1.pdf)
-- [Chairpack Day 2](./events/National-First-Nations-Housing-Forum-Chairpack-Day-2.pdf)
+
 
 ### Australian Dementia Summit (2025)
 - [Event Brochure](./events/Clinical-Dementia-Conference-Brochure.pdf)
@@ -29,12 +28,6 @@
 ### Australian Build-to-Rent Success Summit (2026)
 - [Event Brochure](./events/Australian-Build-to-Rent-Success-Summit-Brochure.pdf)
 - [Event Agenda](./events/Australian-Build-to-Rent-Success-Summit-Agenda.pdf)
-
-### Event Agenda Data Normalization (Salus Events)
-A data cleaning and automation project developed to standardize inconsistently named corporate event agendas and brochures for Salus Events / Aventedge.
-- **What it solves:** Resolved data inconsistencies (e.g., appended version numbers, inconsistent capitalization) across a large set of event documents (such as the Aged Care & Dementia conferences), ensuring compatibility with downstream archival systems and web platforms.
-- **Approach:** Analyzed structural patterns and file metadata to create an automated normalization script, strictly enforcing kebab-case standard naming conventions.
-- **Technologies:** <samp>PowerShell</samp>, Data Cleaning, Automation
 
 ### Graduate Research - Honours Thesis 
 (Link)
