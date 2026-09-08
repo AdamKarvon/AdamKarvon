@@ -13,13 +13,22 @@
 ---
 ## Featured Projects
 ### National First Nations Housing & Homelessness Forum (2025)
-(Link)
+- [Event Brochure](./events/National-First-Nations-Housing-and-Homelessness-Forum-Brochure.pdf)
+- [Chairpack Day 1](./events/National-First-Nations-Housing-Forum-Chairpack-Day-1.pdf)
+- [Chairpack Day 2](./events/National-First-Nations-Housing-Forum-Chairpack-Day-2.pdf)
+
 ### Australian Dementia Summit (2025)
-(Link)
+- [Event Brochure](./events/Clinical-Dementia-Conference-Brochure.pdf)
+- [Event Agenda](./events/National-Clinical-Dementia-Conference-Agenda.pdf)
+
 ### AI & Technology in Aged Care Forum (2026)
-(Link)
+- [Event Website Archive (Salus Events)](https://web.archive.org/web/20260823051408/https://agedcare.salusevents.org/act-agenda)
+- [Working Agenda](./events/AI-and-Technology-in-Aged-Care-Working-Agenda.pdf)
+- [Aged Care Dementia Conference Brochure](./events/Aged-Care-Dementia-Conference-Brochure.pdf)
+
 ### Australian Build-to-Rent Success Summit (2026)
-(Link)
+- [Event Brochure](./events/Australian-Build-to-Rent-Success-Summit-Brochure.pdf)
+- [Event Agenda](./events/Australian-Build-to-Rent-Success-Summit-Agenda.pdf)
 
 ### Event Agenda Data Normalization (Salus Events)
 A data cleaning and automation project developed to standardize inconsistently named corporate event agendas and brochures for Salus Events / Aventedge.
