@@ -31,7 +31,9 @@
 - [Event Agenda](./events/Australian-Build-to-Rent-Success-Summit-Agenda.pdf)
 
 ### Graduate Research - Honours Thesis 
-(Link)
+- [Honours Thesis](https://github.com/AdamKarvon/Graduate-Research/blob/main/Honours_Thesis__Final.pdf)
+- [Honours Talk](https://github.com/AdamKarvon/Graduate-Research/blob/main/Honours_Talk-Final.pdf)
+
 ### Brain Vortices Analysis (fMRI)
 A computational neuroscience project focused on analyzing functional magnetic resonance imaging (fMRI) data to detect and quantify cortical vorticity. 
 - **What it solves:** Extracts functional brain connectivity maps and processes dense 3D/4D spatial data to identify complex flow-like dynamic structures (vortices) in the brain.
