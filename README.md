@@ -1,7 +1,7 @@
 # Adam Karvon
 <samp>Physicist</samp>
 
-> Welcome to my portfolio! I'm enthusiastic about event production, statistical modeling, and data science, with a strong background in extracting insights from complex, high-dimensional datasets. I am passionate about applying advanced computational techniques to solve challenging, real-world problems.
+> Welcome to my portfolio! I'm enthusiastic about event production, statistical modeling, and Physics, with a strong background in extracting insights from complex, high-dimensional datasets. I am passionate about applying advanced computational techniques to solve challenging, real-world problems.
 
 <!-- Self-generating ASCII portrait from GitHub Actions -->
 <picture>
